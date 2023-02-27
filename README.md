@@ -22,3 +22,8 @@
   * game configurations for enemy spawn rate and game time does not take effect
   * player life (time to game over) does not compute properly
 
+## Where to play
+
+  You can play this game at [gibrel.itch.io/urapirat](https://gibrel.itch.io/urapirat)
+
+  
